@@ -1,2 +1,4 @@
 # OlympicScraper
-Olympic Web Scraper Scraper
+Download Olympic Scheduling and Medal Count Info
+
+Currently configured for Tokyo 2020
